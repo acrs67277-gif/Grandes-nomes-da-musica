@@ -40,6 +40,10 @@
             font-family: 'Times New Roman', Times, serif;
         }
 
+        hr {
+            border: 10px solid #30303098;
+        }
+
         p {
             font-size: 15px;
             color: darkslategrey;
