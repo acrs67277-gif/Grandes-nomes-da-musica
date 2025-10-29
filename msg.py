@@ -1,4 +1,4 @@
 print("========================")
-print("Fica calminha Quia!!! ")
-print("Senão. Ele ti pegua.")
+print("Aló, Mundo! ")
+print("Aprenda python que bom.")
 print("========================")
