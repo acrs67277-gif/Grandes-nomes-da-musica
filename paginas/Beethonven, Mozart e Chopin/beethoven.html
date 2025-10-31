@@ -3,9 +3,115 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
+    <title>Ludwig van Beethoven</title>
+    <style>
+        * {
+            list-style: none;
+        }
+        body {
+            font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;     
+        }
+        header {
+            background-color: black;
+            color: white;
+            padding: 12px;
+            text-align: justify;
+            border: 3px solid rgb(1, 47, 255);
+            border-radius: 0.3em;
+        }
+
+        h1 {
+            font-size: 2em;
+            text-align: center;
+            margin: 2px 2px 2px 2px;
+        }
+
+        p {
+            text-justify: inter-ideograph;
+        }
+
+        main {
+            background-color: rgb(255, 255, 255);
+            color: rgb(0, 0, 0);
+            padding: 10px;
+            text-justify: inter-ideograph;
+        }
+
+        main > h2 {
+            background-color: rgb(0, 0, 255);
+            color: white;
+            padding: 11px;
+            border: 2px solid rgb(0, 0, 0);
+            border-radius: 0.1em 0.2em 0.1em;
+        }
+
+        main > ul, main > li  {
+            border: 10px double rgb(0, 0, 0);
+            border-radius: 0.2em;
+            padding: 9px;
+            margin: 13px 20px 21px 20px;
+            text-justify: inter-ideograph;
+        }
+
+        p#legado {
+            background-color: black;
+            color: #fff;
+            border: 2px double black;
+            border-radius: 0.1em 0.2em 0.1em;
+            padding: 10px;
+            text-justify: inter-ideograph;
+        }
+
+        footer > p#legadoI {
+            background-color: rgb(1, 47, 255);
+            color: #fff;
+            border: 2px solid black;
+            border-radius: 0.1em 0.2em 0.1em;
+            padding: 12px;
+            text-align: center;
+            text-justify: inter-ideograph;
+        }
+    </style>
 </head>
 <body>
-    
+    <header>
+        <h1>Ludwig van Beethoven (1770-1827)</h1>
+            <p>
+                Ludwig van Beethoven (1770-1827) foi um influente compositor e pianista alemão, 
+                uma figura de transição entre os períodos Clássico e Romântico da música.
+            </p>
+    </header>
+    <main>
+        <h2>Início de Vida e Carreira:</h2>
+            <ul>
+                <li><strong><i>Nascido em Bonn, Alemanha, em 17 de dezembro de 1770.</i></strong></li>
+                <li><strong><i>Demonstrou talento musical desde cedo, sendo ensinado rigorosamente por seu pai (um tenor da corte) e outros professores.</i></strong></li>
+                <li><strong><i>Suas primeiras obras refletem o estilo clássico de Haydn e Mozart.</i></strong>.</li>
+            </ul>
+        <h2>Período Intermediário ("Heroico") e Surdez:</h2>
+            <ul>
+                <li><strong><i>Aproximadamente a partir de 1802, seu estilo se tornou mais individual e dramático, muitas vezes caracterizado como "heroico".</i></strong></li>
+                <li><strong><i>Durante esse período (1802 a cerca de 1812), compôs algumas de suas obras mais conhecidas, como as Sinfonias No.</i></strong> 3 ("Eroica") e No. 5.</li>
+                <li><strong><i>Por volta dos 26 anos, começou a manifestar os primeiros sintomas de surdez, uma condição que piorou progressivamente e o isolou profundamente. Apesar disso, ele continuou a compor.</i></strong></li>
+            </ul>
+        <h2>Período Final:</h2>
+            <p>No seu período final (a partir de 1812), suas composições se tornaram mais inovadoras e complexas em forma e expressão.</p>
+                <p>
+                    Mesmo completamente surdo, criou algumas de suas obras-primas, incluindo a Missa Solemnis e a Nona Sinfonia, que incorpora um coro no movimento final com o texto da "Ode à Alegria".
+                </p>
+        <h2 style="background-color: rgba(0, 0, 0, 0.199); color: red; font-weight: bold; padding: 11px; border: 2px solid rgb(95, 95, 95); font-size: 2em; text-align: center;"><strong><i>Legado:</i></strong></h2>
+            <p id="legado">
+                Beethoven produziu cerca de 200 a 240 obras, incluindo sonatas para piano (como a "Patética" e a "Clair de Lune"), 
+                9 sinfonias, 5 concertos para piano e sua única ópera, Fidélio.
+            </p>
+            <p id="legado">
+                Ele é amplamente considerado um dos maiores e mais influentes compositores de todos os tempos, 
+                e sua música ainda é intensamente executada e estudada.
+            </p>
+            <p id="legado">Faleceu em Viena, em 26 de março de 1827.</p>
+    </main>
+    <footer>
+        <p id="legadoI">Texto gerado po IA.</p>
+    </footer>
 </body>
 </html>
