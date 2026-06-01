@@ -3,46 +3,151 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link rel="stylesheet" href="Style/musica.css">
     <title>Grandes nonmes da Música</title>
+    <style>
+        * {
+            margin: auto;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        body {
+            font-family: Georgia, 'Times New Roman', Times, serif;
+            background-color: #000;
+            color: #fff;
+        }
+
+        header {
+            background-color: darkgray;
+            color: #000;
+            padding: 6px;
+            margin-bottom: 12px;
+        }
+
+        p#m {
+            font-size: 18px;
+            font-style: italic;
+            margin-top: 9px;
+            color: #ffff01;
+        }
+
+        main {
+            padding: 15px;
+            margin: auto;
+            background-color: #fff;
+            color:#000;
+            max-width: 100%;
+            border-radius: 3px;
+        }
+
+        h1, h2 {
+            background-color: darkblue;
+            color: #fff;
+            padding: 4px;
+            margin: 4px;
+        }
+
+       main > ul, li {
+            margin: 6px;
+            padding: 5px;
+            list-style: none;
+            background-color: #000000;
+            color:#ffff01;
+       }
+
+       strong, i {
+            background: grey;
+            color: #7e0a78;
+            padding: 3px;
+            margin: 3px;
+       }
+
+       div.musica > ul li {
+            background-color: #0051ff;
+            color: #525151;
+            padding: 10px;
+            margin-top: 15px;
+            border-radius: 3px;
+       }
+    </style>
 </head>
 <body>
     <header>
         <h1>Aqui estão alguns pontos-chave sobre a importância da música:</h1>
         <p id="m">
-            A música desempenha um papel fundamental e multifacetado na vida de todas as pessoas, afetando-as nos âmbitos emocional, cognitivo, social e de bem-estar geral.
+            A música desempenha um papel fundamental e multifacetado na vida de todas as pessoas, 
+            afetando-as nos âmbitos emocional, cognitivo, social e de bem-estar geral.
         </p>
     </header>
     <main>
         <h2>1. Bem-Estar e Saúde Emocional</h2>
-            <p><strong><i>Regulação Emocional:</i></strong> A música tem um poder imenso de evocar, expressar e modular emoções. Pode proporcionar conforto, inspiração, alegria, e servir como um refúgio ou alívio em momentos de estresse, ansiedade e até depressão.</p>
-            <p><strong><i>Liberação de Neurotransmissores:</i></strong> Ouvir música estimula a liberação de neurotransmissores associados ao prazer e à recompensa, como a dopamina, contribuindo diretamente para o bom humor e a sensação de bem-estar.</p>
-            <p><strong><i>Alívio da Dor:</i></strong> Em alguns contextos, a música pode funcionar como um "remédio", ajudando a aliviar dores e estimulando o relaxamento.</p>
-            <p><strong><i>Qualidade de Vida:</i></strong> Seja cantando, dançando ou apenas apreciando, a música é uma fonte poderosa de lazer e satisfação pessoal.</p>
+            <ul>
+                <li>
+                    <strong><i>Regulação Emocional:</i></strong> A música tem um poder imenso de evocar, expressar e modular emoções. 
+                    Pode proporcionar conforto, inspiração, alegria, e servir como um refúgio ou alívio em momentos de estresse, 
+                    ansiedade e até depressão.
+                </li>
+                <li>
+                    <strong><i>Liberação de Neurotransmissores:</i></strong> Ouvir música estimula a liberação de neurotransmissores 
+                    associados ao prazer e à recompensa, como a dopamina, contribuindo diretamente para o bom humor e a sensação de bem-estar.
+                </li>
+                <li>
+                    <strong><i>Alívio da Dor:</i></strong> Em alguns contextos, a música pode funcionar como um "remédio", 
+                    ajudando a aliviar dores e estimulando o relaxamento.
+                </li>
+                <li>
+                    <strong><i>Qualidade de Vida:</i></strong> Seja cantando, dançando ou apenas apreciando, 
+                    a música é uma fonte poderosa de lazer e satisfação pessoal.
+                </li>
+            </ul>
         <h2>2. Desenvolvimento Cognitivo e Aprendizagem</h2>
-            <p><strong><i>Estímulo Cerebral:</i></strong> A música ativa diversas áreas do cérebro, estimulando a cognição.</p>
-            <p><strong><i>Memória e Concentração:</i></strong>M Melhora a memória (a memória musical é uma das últimas a se apagar em doenças neurodegenerativas como o Alzheimer), a concentração e o raciocínio. A música instrumental, em particular, pode ser uma aliada para o foco em tarefas de estudo ou trabalho.</p>
-            <p><strong><i>Desenvolvimento Infantil:</i></strong> A prática musical regular, como aprender um instrumento, pode levar a melhorias cognitivas significativas e auxiliar no desenvolvimento de habilidades como linguagem, coordenação motora e raciocínio lógico.</p>
+            <ul>
+                <li><strong><i>Estímulo Cerebral:</i></strong> A música ativa diversas áreas do cérebro, estimulando a cognição.</li>
+                <li>
+                    <strong><i>Memória e Concentração:</i></strong>M Melhora a memória (a memória musical 
+                    é uma das últimas a se apagar em doenças neurodegenerativas como o Alzheimer), a concentração e o raciocínio. 
+                    A música instrumental, em particular, pode ser uma aliada para o foco em tarefas de estudo ou trabalho.
+                </li>
+                <li>
+                    <strong><i>Desenvolvimento Infantil:</i></strong> A prática musical regular, como aprender um instrumento, 
+                    pode levar a melhorias cognitivas significativas e auxiliar no desenvolvimento de habilidades como linguagem, 
+                    coordenação motora e raciocínio lógico.
+                </li>
+            </ul>
         <h2>3. Conexão Social e Expressão</h2>
-            <p><strong><i>Identidade e Expressão Individual:</i></strong> A música é uma forma de arte que permite a cada um expressar seus sentimentos mais profundos e desenvolver sua identidade através do gosto e da prática musical.</p>
-            <p><strong><i>Coesão Social:</i></strong> Atividades musicais em grupo, como corais ou bandas, promovem a socialização, a colaboração e a criação de laços duradouros, conectando pessoas com interesses e sentimentos em comum.</p>
-            <p><strong><i>Comunicação:</i></strong> A música auxilia na comunicação, tanto verbal quanto não verbal, desenvolvendo a capacidade de escuta ativa e a expressão.</p>
-        <p>
-            Em resumo, a música é muito mais do que entretenimento; ela é uma necessidade humana fundamental, um alimento para a alma e um recurso essencial para a saúde mental, o desenvolvimento intelectual e a construção de laços sociais ao longo de toda a vida.
-        </p> <hr>
-        <p>
+            <ul>
+                <li>
+                    <strong><i>Identidade e Expressão Individual:</i></strong> A música é uma forma de arte que permite a 
+                    cada um expressar seus sentimentos mais profundos e desenvolver sua identidade através do gosto e da 
+                    prática musical.
+                </li>
+                <li>
+                    <strong><i>Coesão Social:</i></strong> Atividades musicais em grupo, como corais ou bandas, 
+                    promovem a socialização, a colaboração e a criação de laços duradouros, conectando pessoas 
+                    com interesses e sentimentos em comum.
+                </li>
+                <li>
+                    <strong><i>Comunicação:</i></strong> A música auxilia na comunicação, tanto verbal quanto não verbal, 
+                    desenvolvendo a capacidade de escuta ativa e a expressão.
+                </li>
+                <li>
+                    Em resumo, a música é muito mais do que entretenimento; ela é uma necessidade humana fundamental, 
+                    um alimento para a alma e um recurso essencial para a saúde mental, o desenvolvimento intelectual 
+                    e a construção de laços sociais ao longo de toda a vida.
+                </li>
+            </ul>
+            
             <div class="musica">
                 <ul>
-                    <li><a href="paginas/chiquinha-gonzaga.html" target="_self" rel="next"><i>Chinha Gonzaga</i></a></li>
-                    <li><a href="paginas/maestro-joão-carlos-martins.html" target="_self" rel="next"><i>Maestro João Carlos Martins</i></a></li>
-                    <li><a href="paginas/federic-chopin.html" target="_self" rel="next"><i>Frédéric Chopin</i></a></li>
-                    <li><a href="paginas/heitor-vila-lobos.html" target="_self" rel="next"><i>Heitor Villa-Lobos</i></a></li>
-                    <li><a href="paginas/johann-sebastian-bach.html" target="_self" rel="next"><i>Johann Sebastian Bach</i></a></li>
-                    <li><a href="paginas/ludwing-van-beethoven.html" target="_self" rel="next"><i>Ludwig van Beethoven</i></a></li>
-                    <li><a href="paginas/wolfgang-amadeus-mazart.html" target="_self" rel="next"><i>Wolfgang Amadeus Mozart</i></a></li>
+                    <li><a href="paginas/chiquinha-gonzaga.html" target="_self" rel="next">Chinha Gonzaga</a></li>
+                    <li><a href="paginas/maestro-joão-carlos-martins.html" target="_self" rel="next">Maestro João Carlos Martins</a></li>
+                    <li><a href="paginas/federic-chopin.html" target="_self" rel="next">Frédéric Chopin</a></li>
+                    <li><a href="paginas/heitor-vila-lobos.html" target="_self" rel="next">Heitor Villa-Lobos</a></li>
+                    <li><a href="paginas/johann-sebastian-bach.html" target="_self" rel="next">Johann Sebastian Bach</a></li>
+                    <li><a href="paginas/ludwing-van-beethoven.html" target="_self" rel="next">Ludwig van Beethoven</a></li>
+                    <li><a href="paginas/wolfgang-amadeus-mazart.html" target="_self" rel="next">Wolfgang Amadeus Mozart</a></li>
                 </ul>
             </div>
-        </p> <hr>
     </main>
     <footer>
         <p id="m">&copy;Todos os direitos reservados IA.</p>
