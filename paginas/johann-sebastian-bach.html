@@ -5,34 +5,71 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Johann Sebastian Bach</title>
     <style>
+        * {
+            box-sizing: border-box;
+            margin: auto;
+        }
         body {
-            font-family: Arial, sans-serif;
-            line-height: 1.6;
-            margin: 0;
-            padding: 0;
-            background-color: #f4f4f4;
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            background-color: #444;
+            color: #fff;
+            margin: 10px;
+            padding: 10px;
         }
+
         header {
-            background-color: #333;
-            color: #fff;
-            padding: 20px 0;
+            background-color: #000;
+            padding: 10px;
+            margin: 9px;
             text-align: center;
         }
-        h1 {
-            margin: 0;
+
+        h1, h2, h3 {
+            color: yellow;
+            background-color: #000;
+            padding: 5px;
+            margin: 4px;
         }
-        ul {
-            list-style-type: square;
-            margin-left: 20px;
+
+        main {
+            background-color: #fff;
+            color: #000;
+            padding: 10px;
+            margin: 9px;
         }
+
+        div > ul, li {
+            margin: 8px;
+            padding: 8px;
+            background-color: #FFFDD0;
+            list-style: none;
+        }
+
+        aside {
+            background-color: #000;
+            color: #ff0;
+            padding: 5px;
+            margin: 5px;
+            border: 2px solid #818181;
+            border-radius: 0.5em;
+        }
+
+        a {
+            color: #ff8000;
+            text-decoration: none;
+        }
+
+        a:hover {
+            color: #ea00ff;
+            transition:all 0.001ms;
+        }
+
         footer {
-            background-color: #333;
-            color: #fff;
+            background-color: #000000;
+            color: #ffe600;
             text-align: center;
-            padding: 10px 0;
-            position: fixed;
-            width: 100%;
-            bottom: 0;
+            padding: 9px;
+            margin: 7px;
         }
     </style>
 </head>
@@ -44,28 +81,33 @@
                 totalmente reconhecido em vida, moldou a música ocidental de forma definitiva.
             </p>
     </header>
-    <h1>Infância e Formação (1685-1702)</h1>
-        <ul>
-            <li>
-                ​Johann Sebastian Bach nasceu em 1685 em Eisenach, Alemanha, no seio de uma família 
-                com uma longa e rica tradição musical. Muitos de seus ancestrais e parentes eram 
-                músicos de igreja e de corte, o que lhe proporcionou um ambiente ideal para o 
-                desenvolvimento de seu talento.
-            </li>
-            <li>
-                ​Aos 9 anos, Bach perdeu a mãe e, um ano depois, o pai. 
-                Ele então foi morar com seu irmão mais velho, Johann Christoph Bach, 
-                que era organista em Ohrdruf. Foi com o irmão que ele aprimorou seus 
-                estudos de cravo e órgão, copiando partituras de compositores renomados 
-                e absorvendo os conhecimentos de seu tempo.
-            </li>
-            <li>
-                ​Em 1700, aos 15 anos, ele se mudou para Lüneburg, onde foi admitido no coro da 
-                Igreja de São Miguel. Lá, ele teve acesso a uma vasta biblioteca de partituras 
-                e entrou em contato com a música francesa e o estilo dos grandes organistas do 
-                norte da Alemanha, como Johann Adam Reinken.
-            </li>
-        </ul>
+    <main>
+        <h2>Infância e Formação (1685-1702)</h2>
+
+        <div>
+            <ul>
+                <li>
+                    ​Johann Sebastian Bach nasceu em 1685 em Eisenach, Alemanha, no seio de uma família 
+                    com uma longa e rica tradição musical. Muitos de seus ancestrais e parentes eram 
+                    músicos de igreja e de corte, o que lhe proporcionou um ambiente ideal para o 
+                    desenvolvimento de seu talento.
+                </li>
+                <li>
+                    ​Aos 9 anos, Bach perdeu a mãe e, um ano depois, o pai. 
+                    Ele então foi morar com seu irmão mais velho, Johann Christoph Bach, 
+                    que era organista em Ohrdruf. Foi com o irmão que ele aprimorou seus 
+                    estudos de cravo e órgão, copiando partituras de compositores renomados 
+                    e absorvendo os conhecimentos de seu tempo.
+                </li>
+                <li>
+                    ​Em 1700, aos 15 anos, ele se mudou para Lüneburg, onde foi admitido no coro da 
+                    Igreja de São Miguel. Lá, ele teve acesso a uma vasta biblioteca de partituras 
+                    e entrou em contato com a música francesa e o estilo dos grandes organistas do 
+                    norte da Alemanha, como Johann Adam Reinken.
+                </li>
+            </ul>
+        </div>
+        
     <h2>​O Início da Carreira: Weimar e Köthen (1703-1723)</h2>
         <ul>
             <li>
@@ -106,17 +148,17 @@
         </ul>
     <h2>​Suas obras-primas dessa fase incluem:</h2>
         <ul>
-            <li> ​A "Paixão Segundo São Mateus": Considerada por muitos o ponto mais alto da música sacra.</li>
+            <li>​A "Paixão Segundo São Mateus": Considerada por muitos o ponto mais alto da música sacra.</li>
             <li>​A "Missa em Si Menor": Uma de suas últimas e mais grandiosas composições.</li>
             <li>​"O Oratório de Natal": Uma série de seis cantatas para o período do Natal.</li>
         </ul>
-        <p>
+        <aside>
             ​Bach faleceu em 1750, aos 65 anos, em decorrência de complicações de uma cirurgia ocular. 
             Apesar de ser conhecido e respeitado como um grande organista e mestre do contraponto, 
             sua obra completa não foi totalmente valorizada por seus contemporâneos. 
             Após sua morte, ele foi ofuscado pelo estilo clássico que estava em ascensão.
-        </p>
-    <h2>​A Redescoberta e o Legado Duradouro</h2>
+        </aside>
+    <h3>​A Redescoberta e o Legado Duradouro</h3>
         <ul>
             <li>
                 ​O trabalho de Bach ficou relativamente esquecido por quase um século. 
@@ -138,8 +180,10 @@
                 deixando um legado que continua a inspirar e a emocionar o mundo.
             </li>
         </ul>
+    </main>
+
     <footer>
-        <p>&copy; 2023 Grandes Nomes da Música. Todos os direitos reservados.</p>
+        <p>&copy; 2023 Grandes Nomes da Música. Todos os direitos reservados. <a href="../index.html" target="_self" rel="next">VOLTAR</a></p>
     </footer>
 </body>
 </html>

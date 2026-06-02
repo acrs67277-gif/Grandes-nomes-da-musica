@@ -1,21 +1,91 @@
-Wolfgang Amadeus Mozart é, para muitos, o maior gênio da história da música. Sua vida foi uma jornada meteórica de talento inigualável, do auge da fama na infância à morte precoce e misteriosa. Ele foi o compositor que aperfeiçoou o estilo clássico, deixando um legado de uma beleza e perfeição raramente igualadas.
-​O Prodígio e as Viagens (1756-1781)
-​Mozart nasceu em 1756 em Salzburgo, na Áustria. Seu pai, Leopold Mozart, era um compositor e violinista que imediatamente reconheceu o talento extraordinário de seu filho. Leopold abandonou sua própria carreira para se dedicar inteiramente à educação e promoção do gênio de Wolfgang e de sua irmã mais velha, Nannerl, que também era uma pianista talentosa.
-​Aos seis anos, Mozart já era a figura do "Wunderkind" (criança-prodígio). Seu pai o levou em uma série de turnês pela Europa, onde ele se apresentava para a realeza em Viena, Paris e Londres. O jovem Mozart fascinava a todos: ele tocava piano e violino, improvisava e até mesmo compunha na frente da corte, demonstrando uma maturidade musical espantosa para sua idade.
-​Apesar do sucesso nas turnês, a vida em Salzburgo era frustrante para Mozart. Ele se sentia aprisionado pelo rígido sistema de mecenato do Príncipe-Arcebispo Hieronymus Colloredo. Em 1781, após uma violenta discussão com o Arcebispo, Mozart se demitiu e decidiu se mudar para Viena, a capital musical da Europa, para se tornar um compositor independente.
-​O Auge em Viena e as Grandes Obras (1781-1787)
-​A mudança para Viena marcou o início do período mais criativo e pprintf("");rolífico de sua vida. Mozart foi um dos primeiros compositores a viver como um freelancer, buscando sustento com aulas, concertos por assinatura e a venda de suas composições. Embora tivesse sucesso inicialmente, sua vida financeira era frequentemente instável.
-​Neste período, ele produziu uma profusão de obras-primas que definiram o estilo clássico. Sua amizade e admiração por Joseph Haydn, o "pai da sinfonia", o influenciaram profundamente.
-​Alguns de seus maiores trabalhos desta fase incluem:
-​Óperas: As óperas cômicas As Bodas de Fígaro e o drama com traços cômicos Don Giovanni. Ambas são consideradas o auge da ópera clássica, com uma mistura perfeita de música, enredo e profundidade psicológica dos personagens.
-​Sinfonias: Ele compôs suas três últimas e mais famosas sinfonias em apenas seis semanas, em 1788: a Sinfonia n.º 39, a melancólica Sinfonia n.º 40 em sol menor e a grandiosa Sinfonia n.º 41 ("Júpiter").
-​Concertos: Mozart era um virtuoso do piano, e seus concertos, como o Concerto para Piano n.º 21, são considerados o ápice do gênero.
-​A Crise e os Últimos Anos (1788-1791)
-​A partir de 1788, a situação de Mozart se deteriorou. O público vienense mudou o foco para outros compositores, e a situação econômica do continente, afetada pela guerra, diminuiu o apoio da nobreza. Mozart passou a viver com dificuldades financeiras, mas sua criatividade permaneceu intacta.
-​Em 1791, o último ano de sua vida, ele produziu obras de uma beleza e profundidade surpreendentes:
-​A ópera A Flauta Mágica, que mistura conto de fadas com uma mensagem filosófica e idealista.
-​O Concerto para Clarinete, uma de suas últimas obras completas.
-​O drama e o mistério de sua morte estão ligados ao Requiem. Encomendado por um patrono anônimo, Mozart ficou obcecado com a obra, acreditando que a estava compondo para seu próprio funeral.
-​Mozart faleceu em 5 de dezembro de 1791, aos 35 anos. A causa de sua morte é incerta, e as lendas sobre sua pobreza e rivalidade com Salieri foram perpetuadas pelo filme "Amadeus", embora a maioria dos historiadores acredite que essas narrativas foram exageradas. Ele foi enterrado em uma vala comum, uma prática comum na época para cidadãos de classe média em Viena.
-​O Legado de um Gênio
-​Em sua curta vida, Mozart compôs mais de 600 obras. Sua música é reverenciada por sua beleza, elegância, equilíbrio formal e profundidade emocional. Ele se tornou a medida de todos os compositores, e seu trabalho continua a ser uma fonte de inspiração para músicos e amantes da música em todo o mundo. A figura de Mozart representa o ápice do gênio musical, uma centelha de inspiração divina que ilumina a história da música.
+A história de **Wolfgang Amadeus Mozart** é uma das mais fascinantes, brilhantes e, por fim, trágicas da história da música ocidental. Considerado um dos maiores gênios da humanidade, ele viveu apenas 35 anos, mas transformou completamente a música clássica.
+
+Aqui está a trajetória completa da sua vida, dividida pelos seus momentos mais marcantes:
+
+---
+
+## 1. O Prodígio de Salzburgo (1756–1769)
+
+Nascido em 27 de janeiro de 1756 em Salzburgo (atual Áustria), Mozart era o filho caçula de Leopold Mozart, um respeitado compositor e professor de violino, e Anna Maria Pertl. De sete filhos, apenas Wolfgang e sua irmã mais velha, Maria Anna (apelidada de Nannerl), sobreviveram à infância.
+
+O talento de Mozart manifestou-se de forma quase assustadora:
+
+* **Aos 3 anos:** Já conseguia identificar notas ao piano e reproduzir acordes.
+* **Aos 5 anos:** Começou a compor suas primeiras pequenas peças.
+* **Aos 6 anos:** Tocava brilhantemente cravo e violino.
+
+Percebendo o ouro que tinha em mãos, Leopold transformou a vida dos filhos em uma eterna turnê. A família viajou pelas principais capitais da Europa (Paris, Londres, Viena). Wolfgang tocava para reis, rainhas e imperatrizes (como Maria Teresa da Áustria). Ele não era apenas um músico habilidoso; era uma atração de circo erudita: tocava de olhos vendados, de costas e improvisava sobre qualquer tema que lhe dessem.
+
+---
+
+## 2. A Juventude e as Viagens à Itália (1769–1773)
+
+Entre os 13 e 17 anos, Mozart fez três viagens à Itália com seu pai. Esse período foi crucial para sua maturidade musical, pois a Itália era o centro da ópera mundial.
+
+É dessa época uma das anedotas mais famosas de sua vida: aos 14 anos, Mozart visitou a Capela Sistina e ouviu o *Miserere* de Gregorio Allegri, uma peça secreta cuja partitura era proibida de ser copiada sob pena de excomunhão. **Mozart ouviu a música uma única vez, voltou para o hotel e a transcreveu inteira, de memória**, nota por nota. Em vez de puni-lo, o Papa Clemente XIV ficou tão impressionado que o condecorou com a Ordem do Esporão de Ouro.
+
+---
+
+## 3. O Sufoco em Salzburgo e a Busca por Liberdade (1773–1781)
+
+Ao retornar da Itália, Mozart foi contratado como músico da corte pelo governante de Salzburgo, o Arcebispo Hieronymus von Colloredo. Foi uma relação desastrosa.
+
+Colloredo tratava os músicos como empregados domésticos (Mozart comia na mesa dos cozinheiros) e limitava sua liberdade criativa, exigindo composições curtas e religiosas. Mozart sentia-se sufocado em uma cidade provinciana.
+
+Em 1777, ele pediu demissão e viajou com a mãe para Augsburgo, Mannheim e Paris em busca de um emprego melhor. A viagem foi um fracasso financeiro e terminou em tragédia: **sua mãe adoeceu e morreu em Paris, em 1778**. Devastado e sem dinheiro, ele foi forçado a voltar para Salzburgo e aceitar seu antigo emprego com o arcebispo.
+
+---
+
+## 4. A Independência em Viena e os Anos de Glória (1781–1786)
+
+Em 1781, a tensão com o Arcebispo Colloredo estourou. Após uma briga feia em Viena, Mozart foi literalmente demitido com "um chute no traseiro" dado pelo secretário do arcebispo.
+
+Livre, Mozart decidiu fazer algo extremamente ousado para a época: **viver como músico independente em Viena**, a capital musical da Europa.
+
+Os primeiros anos em Viena foram os mais felizes e prósperos:
+
+* **Casamento:** Em 1782, casou-se com Constanze Weber (irmã de um antigo amor de juventude), contra a vontade de seu pai. Tiveram seis filhos, mas apenas dois sobreviveram à infância.
+* **Sucesso:** Mozart virou a sensação de Viena. Dava aulas, promovia seus próprios concertos e compunha num ritmo frenético.
+* **Amizade com Haydn:** O renomado compositor Joseph Haydn ouviu as obras de Mozart e disse a Leopold: *"Seu filho é o maior compositor que conheço, pessoalmente ou de nome"*.
+
+É dessa fase de ouro que nascem suas óperas mais revolucionárias, como ***As Bodas de Fígaro*** (1786) e ***Don Giovanni*** (1787).
+
+---
+
+## 5. Crise Financeira e Declínio (1786–1790)
+
+Apesar do sucesso, Mozart e Constanze tinham um estilo de vida extravagante. Mudavam-se para apartamentos caros, compravam roupas de luxo e não sabiam administrar o dinheiro.
+
+Para piorar, a Áustria entrou em guerra com o Império Otomano, o que causou uma crise econômica geral. A aristocracia vienense já não tinha dinheiro para patrocinar concertos, e o público, sempre em busca de novidades, começou a achar a música de Mozart "complexa demais" (daí a famosa frase atribuída ao Imperador José II: *"Notas demais, querido Mozart"*).
+
+Mozart começou a acumular dívidas, sendo obrigado a pedir empréstimos constantes a amigos para sobreviver.
+
+---
+
+## 6. O Ano Final e o Misterioso Réquiem (1791)
+
+O ano de 1791 foi, ao mesmo tempo, um ano de retorno triunfal e o fim de sua vida. Ele compôs algumas de suas maiores obras-primas em um ritmo sobre-humano, incluindo a ópera ***A Flauta Mágica***, que foi um sucesso estrondoso de público.
+
+No meio desse turbilhão, um homem misterioso e mascarado bateu à sua porta. Ele representava um conde anônimo e queria encomendar, sob sigilo absoluto, uma **Missa de Réquiem** (uma missa para os mortos).
+
+Mozart, já com a saúde debilitada por uma febre reumatóide crônica e exaustão, começou a ficar paranoico. Ele confessou a Constanze que sentia que estava escrevendo o Réquiem para o seu próprio funeral e que achava que estava sendo envenenado.
+
+---
+
+## 7. A Morte Obscura
+
+Em novembro de 1791, Mozart adoeceu gravemente. Ficou acamado, sofrendo com inchaços, vômitos e dores intensas. Mesmo na cama, continuou ditando as notas do Réquiem para seu aluno, Franz Xaver Süssmayr.
+
+À meia-noite e 55 minutos do dia **5 de dezembro de 1791**, Wolfgang Amadeus Mozart faleceu, com apenas 35 anos.
+
+A causa oficial da morte foi registrada como "febre miliar severa", mas até hoje médicos e historiadores debatem se foi febre reumática, insuficiência renal ou infecção por estreptococos.
+
+Como estava afogado em dívidas, ele recebeu um enterro de terceira classe, que era o padrão para a classe média da época de acordo com as leis do Imperador (e não por ser um "indigente", como muitos mitos dizem). Ele foi enterrado em uma vala comum no Cemitério de São Marcos, em Viena, sem testemunhas além dos coveiros. O local exato de seus restos mortais permanece desconhecido.
+
+---
+
+## O Legado de um Gênio
+
+Mozart deixou um catálogo de **mais de 600 obras**, incluindo 41 sinfonias, 27 concertos para piano, 23 óperas e inúmeras peças de câmara.
+
+Sua música alcançou um equilíbrio perfeito entre a graça leve do período Clássico e uma profundidade emocional dramática que já antecipava o Romantismo. Ele conseguia escrever música alegre enquanto chorava de dor, e sua obra permanece viva, sendo executada todos os dias em algum canto do planeta.
